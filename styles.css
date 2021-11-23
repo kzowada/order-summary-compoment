@@ -26,7 +26,6 @@ main {
 }
 
 .container {
-    min-height: 80vh;
     background-color: white;
     width: 50%;
     border-radius: 15px;
@@ -98,9 +97,10 @@ main {
 }
 
 .cancel-button {
-    margin-top: 2.1875em;
+    margin: 2.1875em 0;
     text-decoration: none;
     color: hsl(224, 23%, 55%);
+
 }
 
 .cancel-button:hover {
